@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-📧 riddhimakgupta@gmail.com  
+📧 Gmail:riddhimakgupta@gmail.com  
 💼 LinkedIn:https://www.linkedin.com/in/riddhima-gupta-836124339/
 
 ---
