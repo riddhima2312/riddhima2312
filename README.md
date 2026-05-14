@@ -43,8 +43,7 @@
 ---
 
 ## 🌟 Featured Projects
-
-✨ Rezumix – AI Resume Analyzer  
+ 
 ✨ DSA Projects  
 ✨ Full Stack Apps  
 ✨ Open Source Contributions  
